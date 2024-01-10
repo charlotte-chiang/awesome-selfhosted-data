@@ -1,0 +1,19 @@
+name: "Anytype"
+website_url: "https://anytype.io"
+source_code_url: "https://github.com/anyproto"
+description: "All-in-one tool for project, task, wiki & knowledge management for Windows, Linux, Mac, Android & iOS. E2E encrypted & p2p synced."
+licenses:
+  - MIT
+platforms:
+  - Java
+  - Go
+  - Flutter
+  - Swift
+tags:
+  - Calendar & Contacts
+  - Bookmarks and Link Sharing
+  - Document Management
+  - Software Development - Project Management
+  - Task management & To do Lists
+depends_3rdparty: false
+demo_url: "https://www.youtube.com/watch?v=dh_3NHY5eVs"
